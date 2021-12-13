@@ -78,3 +78,7 @@ Putting an asterisk in a search tells Google ‘I don’t know what goes  here�
 ```
 site:*.com
 ```
+
+## Google Hacking Database 
+https://www.exploit-db.com/google-hacking-database
+
